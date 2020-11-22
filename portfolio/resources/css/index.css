@@ -8,11 +8,16 @@ body {
     visibility: hidden;
   }
   .fa-circle {
-    color: #1e82f4;
+    color: #00a3b3;
+    background: linear-gradient(#0deaff, #00a3b3);
+        background-clip: border-box;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   .navbar {
     margin-bottom: 0;
-    background-color: #1e82f4;
+    background-color: #00a3b3;
+    background: linear-gradient(#0deaff, #00a3b3);
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -24,7 +29,7 @@ body {
     color: #ffffff !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #1e82f4 !important;
+    color: #00a3b3 !important;
     background-color: #ffffff !important;
   }
   .navbar-default .navbar-toggle {
@@ -32,7 +37,8 @@ body {
     color: #ffffff !important;
   }
   .jumbotron {
-    background-color: #1e82f4;
+    background-color: #00a3b3;
+    background: linear-gradient(#00a3b3 0 30%, #00757F);
     color: #ffffff;
     padding: 100px, 25px;
     margin-bottom: 0;
@@ -43,11 +49,11 @@ body {
   .logo {
     font-size: 100px;
     padding: 20px;
-    color: #1e82f4;
+    color: #00a3b3;
   }
   .logo-small {
     font-size: 50px;
-    color: #1e82f4;
+    color: #00a3b3;
   }
   @media screen and (max-width: 768px) {
     .col-sm-4 {
@@ -74,7 +80,7 @@ body {
   footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
-    color: #1e82f4;
+    color: #00a3b3;
   }
   .socials {
     width: 475px;
