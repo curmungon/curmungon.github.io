@@ -16,8 +16,10 @@ Promise.resolve(getProjectData()).then((data) => {
   );
   reactProjects = orderedData.filter((elm) => elm.projectArea === "React");
   d3Projects = orderedData.filter((elm) => elm.projectArea === "d3.js");
+  htmlProjects = orderedData.filter((elm) => elm.projectArea === "HTML");
   console.log(reactProjects);
   console.log(d3Projects);
+  console.log(htmlProjects);
 });
 
 $(document).ready(function () {
