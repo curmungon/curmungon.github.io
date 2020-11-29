@@ -13,12 +13,13 @@ body {
 }
 .social-logo-stack {
   display: grid;
-  grid-template-columns: auto;
+  grid-auto-flow: column;
+  gap: 5px;
   align-items: center;
   justify-content: center;
 }
 .social-logo-github {
-  background: var(--github-light-icon);
+  background-image: var(--github-light-icon);
   background-size: cover;
 }
 .social-logo-text {
