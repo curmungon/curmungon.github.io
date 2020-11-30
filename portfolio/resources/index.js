@@ -1,3 +1,6 @@
+// Since I've currently decided to serve a static page redering the HTML with PowerShell
+// This part of the code isn't needed. If I decide to change the the page, I'll still have the boilerplate written.
+/*
 function getProjectData() {
   return Promise.resolve(
     fetch("./resources/portfolioProject.json")
@@ -17,10 +20,12 @@ Promise.resolve(getProjectData()).then((data) => {
   reactProjects = orderedData.filter((elm) => elm.projectArea === "React");
   d3Projects = orderedData.filter((elm) => elm.projectArea === "d3.js");
   htmlProjects = orderedData.filter((elm) => elm.projectArea === "HTML");
+  
   console.log(reactProjects);
   console.log(d3Projects);
   console.log(htmlProjects);
 });
+*/
 
 $(document).ready(function () {
   //add smooth scrolling to navbar links and footer
