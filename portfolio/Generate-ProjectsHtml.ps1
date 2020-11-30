@@ -14,7 +14,7 @@ $portfolioItemString = @'
             srcset="#PROJWEBPURL#"
             type="image/webp"
         />
-        <img class="portfolio-grid-thumbnail" src="#PROJIMGURL#" alt="#PROJTITLE# Thumbnail" />
+        <img class="portfolio-grid-thumbnail" src="#PROJIMGURL#" alt="#PROJTITLE# Thumbnail" loading="lazy"/>
     </picture>
     <p id="tile-description-#TILENUM#" class="portfolio-grid-description">
         <strong>#PROJTITLE#</strong><br />#PROJDESC#
