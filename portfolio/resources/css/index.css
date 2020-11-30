@@ -4,6 +4,7 @@
 
 body {
   font-family: "Ubuntu", sans-serif;
+  font-display: swap;
 }
 #about {
   padding: 100px;
