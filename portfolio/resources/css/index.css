@@ -73,35 +73,9 @@ body {
   margin-bottom: 0;
 }
 .container-fluid {
-  padding: 60px, 50px;
+  padding: 30px 50px 60px 30px;
 }
-.logo {
-  font-size: 100px;
-  padding: 20px;
-  color: #00a3b3;
-}
-.logo-small {
-  font-size: 50px;
-  color: #00a3b3;
-}
-@media screen and (max-width: 768px) {
-  .col-sm-4 {
-    text-align: center;
-    margin: 25px 0;
-  }
-}
-.thumbnail {
-  text-decoration: none;
-  color: #000000;
-  padding: 0 0 15px 0;
-  border: none;
-  border-radius: 0;
-}
-.thumbnail img {
-  width: 100%;
-  height: 100%;
-  margin-bottom: 10px;
-}
+
 .contact-form,
 .socials {
   float: none;
@@ -118,5 +92,71 @@ footer .glyphicon {
   padding: 5px;
 }
 .bg-grey {
-  background-color: #f6f6f6;
+  background-color: #e7e7e7;
+}
+.section-header {
+  padding-bottom: 15px;
+}
+
+.portfolio-wrapper {
+  text-align: center;
+  padding: 60px 50px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.portfolio-grid-wrapper {
+  display: grid;
+  grid-template:
+    "a a a" 1fr
+    / minmax(20ch, 400px) minmax(20ch, 400px) minmax(20ch, 400px);
+  gap: 15px;
+}
+@media screen and (max-width: 768px) {
+  .portfolio-grid-wrapper {
+    display: grid;
+    grid-template: "a" 1fr / minmax(20ch, auto);
+    gap: 15px;
+  }
+}
+.portfolio-grid-tile {
+  display: grid;
+  grid-template:
+    "linker" 0px
+    "thumbnail" auto
+    "description" min-content;
+  background-color: white;
+  position: relative;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  transition: transform 0.05s ease-in-out;
+}
+
+.portfolio-grid-tile:hover {
+  transform: scale(1.05);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.portfolio-grid-tile-link {
+  grid-area: "linker";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.portfolio-grid-description {
+  grid-area: "description";
+  text-decoration: none;
+  color: #000000;
+  padding: 0 0 15px 0;
+  border: none;
+}
+.portfolio-grid-thumbnail {
+  grid-area: "thumbnail";
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 10px;
 }
