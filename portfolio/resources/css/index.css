@@ -133,7 +133,7 @@ footer .glyphicon {
   padding: 5px;
   border-radius: 10px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-  transition: transform 0.05s ease-in-out;
+  transition: transform 0.13s ease-out;
 }
 
 .portfolio-grid-tile:hover {
