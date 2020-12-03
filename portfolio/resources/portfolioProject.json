@@ -1,10 +1,20 @@
 {
     "projectData": [
         {
+            "projectArea": "WordPress",
+            "projectDisplayOrder": -10,
+            "projectTitle": "Enabling Automation",
+            "projectDescription": "Wordpress based blog site focused on helping people use Microsoft Windows' built-in automation.",
+            "projectUrl": "https://www.enablingautomation.com",
+            "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3cbd5nm4OOm53xNXQH2rPVugRjbYD_Hy2PQ13Yo_1_txMiWX5G6aN4De3taQXqGjk0Jsyt5YbkfBRgdX7Sl68L9I5OZMZK8TjQvLa5FYNgqhGLwTdm3SPsk96x262NDYDpjiwmq7tfvu293TMtc7ss9=w396-h223-no?authuser=0",
+            "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3cjZHKWtVMq_7P9N9GgMb94lttVcFmFcDl_TSROcCsN5ZFXA8qQzqEqrKdcCVonNNe_AeR6wFFLRsjfP0SuQ3RHiHdcJhurGBclvDnpID1_UNVvXIwCWz7ZcCn2rTDke7Eci0cHT0dc8uD4ZGXdTIgK=w720-h405-no?authuser=0",
+            "tags": "WordPress, blog, Administrator"
+        },
+        {
             "projectArea": "React",
             "projectDisplayOrder": 3,
             "projectTitle": "Drum Machine",
-            "projectDescription": "",
+            "projectDescription": "Use your keyboard and/or mouse to play a simple drum machine.",
             "projectUrl": "https://codepen.io/ne_st185/full/BOjPWB",
             "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3ccOdKAMaaLWty-P03mDseNMgE86bOAp40EcyUTm7czbhXTPAHLeBJ3Ah_IJNmaE9q59G8rCw2rUQVferPjj0FMp9dudkT9W-VRH27aiFnTgwjOKAeRu1WPIh2QYuwrdvQC9Gxr-AIld_5HalmMjdRQ=w352-h198-no?authuser=0",
             "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3c3_j5yAJBQn8ci77DhvU5wYVAAvRJEfNYY2ZzvSvccRd8P8k22QTcv0YdZ3Q3NRnLRV0qP-U60mNPgO6LmbTJmEqGIRgYVEzEbMOaF0YDZ-9tckob8k4dinXHPMKwyGd1beh6-FtNljveRKA0KFFuE=w640-h360-no?authuser=0",
@@ -92,7 +102,7 @@
         },
         {
             "projectArea": "d3.js",
-            "projectDisplayOrder": 99,
+            "projectDisplayOrder": 100,
             "projectTitle": "D3 Heatmap",
             "projectDescription": "",
             "projectUrl": "https://codepen.io/ne_st185/full/ZRBNBV",
@@ -102,27 +112,27 @@
         },
         {
             "projectArea": "d3.js",
-            "projectDisplayOrder": 100,
+            "projectDisplayOrder": 99,
             "projectTitle": "D3 Scatter Plot",
             "projectDescription": "",
             "projectUrl": "https://codepen.io/ne_st185/full/KeNJze",
-            "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3c7WXDFBPuApL6kDoZot0i73Fugc5wILLtexMR-Dlftn5SoLqxmJkHhv4-Vrwn7xm5WTBbuzi5zA0YcUNdjzckn4u2yZum-nnyKM-bK9puwr4n5HOP99Eh8vpepYUsmWyXTCtTiLQyOHOPwkYsI1v6J=w352-h198-no?authuser=0",
-            "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3fxVy0w0KY3cRRSgHPwpVOsWM-OQ5gIi-8h5BBPin2VRT4n4hLo7J7tWiD1YF3twDibF8euUaBU4ALEuVCwSdzzgNNCafZp68Gv1lyBbGeJKzfVe8TJTgj__REXy0xEgYTUYrz8uodo88uC5T-LFNEo=w639-h360-no?authuser=0",
+            "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3dtNBAIOKu6jI733bvba5zXu2UCGroz2-HJz-Kp0H7OOeu-IH3Qcp46hyXpi_K86cEtlvmBtNJuhZn1Ogc2QnqcoIdZYWOafYJGeHl1yL1JgsypFanhRrVCLZI9pEKQUj9qqwmBqZU_8t7CRLH9G1La=w352-h198-no?authuser=0",
+            "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3d6bh_BjU85m_3M7bABMyvIh0lSijuHGU4wQGzOUVtT8kGxaev5iC9OrOQE3_06JqjUCGNIhFJz8zTodLvdE6D_h5mYZiW_jRPylVFXDrFEcI9mKTIwnzIINN3YYjPcihe8ezYGxjnINilk-wipKWCR=w640-h360-no?authuser=0",
             "tags": ""
         },
         {
             "projectArea": "d3.js",
-            "projectDisplayOrder": 100,
+            "projectDisplayOrder": 99,
             "projectTitle": "D3 Bar Chart",
             "projectDescription": "",
             "projectUrl": "https://codepen.io/ne_st185/full/YvWqzx",
-            "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3e9AWAycGWdTXZxd38F1BwQu6w2FBK3NyL9-g5kepQmAdWgBRPCsWXZLCtlHTo_hMK0I-8nQmEGmEtqJeUB-z3Dp2ybk2ipQwX_a6VWTHAyj6lap73fPyeUn95VJfxT8GasGKDb7XRgwRbM-lswJcA9=w352-h198-no?authuser=0",
-            "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3exwpZtayMoqIxkH0HhXXqYkVtGBgcGjGMPX58GaXwRX5obXvioe8_KxtpCEvS-YhsnHJvlhOzhCzGKphft5Ye0CYHXb99nUDhKPrhxaxgnG8kU4kIuD3M4d9rdx1-pUr764wgzcH3w--ndQzRTnBYl=w640-h360-no?authuser=0",
+            "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3c0zDfzRFIrYZd0i0ZRJ1KR_WyYFr2Azz6l3xQ_cT-Fpco-ub0srCsNmWaWLn6VE4NfIipf8JhRI8v_KQUPhLhCYdUm0c_h9lXEJmaS6_lVW67J5nAta9ug37zUWVmfDUdWQTm5RmOMPga-3oGOH2oD=w352-h198-no?authuser=0",
+            "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3dUbYmWZ8I_7sHRNsIHqEkJABRNDjiAQyRS8xD_3fqrFgVF1oDNvsvBlwS7OzfdXZJwm0pOC2QAkN-la4gH3BCWgGHmLE9t_DhK9vE4BAybatbIt5WZed5GLg2hOK2o-w_ZVn2wDKMEW47BL6lCEMAk=w640-h360-no?authuser=0",
             "tags": ""
         },
         {
             "projectArea": "HTML",
-            "projectDisplayOrder": 0,
+            "projectDisplayOrder": -1,
             "projectTitle": "Pomodoro Clock",
             "projectDescription": "An interval timer for the Pomodoro technique",
             "projectUrl": "https://codepen.io/ne_st185/full/dZRJmj",
@@ -142,7 +152,7 @@
         },
         {
             "projectArea": "HTML",
-            "projectDisplayOrder": 2,
+            "projectDisplayOrder": 1,
             "projectTitle": "Simon Game",
             "projectDescription": "Challenge your memory! The classic Simon game.",
             "projectUrl": "https://codepen.io/ne_st185/full/JOvpaG",
@@ -152,7 +162,7 @@
         },
         {
             "projectArea": "HTML",
-            "projectDisplayOrder": 5,
+            "projectDisplayOrder": 6,
             "projectTitle": "Wikipedia Viewer",
             "projectDescription": "Search Wikipedia or get a random article.",
             "projectUrl": "https://codepen.io/ne_st185/full/RjNmoa",
@@ -182,7 +192,7 @@
         },
         {
             "projectArea": "HTML",
-            "projectDisplayOrder": 6,
+            "projectDisplayOrder": 100,
             "projectTitle": "Tribute Page",
             "projectDescription": "Tribute page for George Westinghouse, Jr.",
             "projectUrl": "https://codepen.io/ne_st185/full/qqxpgp",
@@ -192,22 +202,22 @@
         },
         {
             "projectArea": "HTML",
-            "projectDisplayOrder": 7,
+            "projectDisplayOrder": 5,
             "projectTitle": "Random Quote Machine",
             "projectDescription": "A random quote fetching machine.",
             "projectUrl": "https://codepen.io/ne_st185/full/bRQaav",
-            "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3d-3K8_6aNzoytmTa1mIBNgsi2JQlJu8AmlrAv-QMQVAVOMrwyD1mCfULt7OGZ8XizG7QIhZ4YgqopI6yT2sFOE4WnjIme2Cd4Au6D3KFORD2CEuE9JSO0gH86hwL1v09yn2AHm_uwQfclIys1uQzJc=w352-h198-no?authuser=0",
-            "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3fMh4Ny42adEDupkeDnpgAN-7ALf4MWj7BLC8VXdB1PTQwc3YZTWQuqbBQF6r5_yboISERv3CK8injQuMP4v76JOxW6bp9nB62nu0TPJoDugL1EyGNMqPX-wlmOX138blVWDHnHBp8N_zCEWQuX-oZ3=w640-h360-no?authuser=0",
+            "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3dsuTHP3Av8mANtEotQIEpoKWm1r2qm2DLZpwOsnQKIuxQUQo3WZ7PmUUMHZ2QvBfPtPU5foFFuRP2GM6qBXb-JKoxcmDiXOHVlDDd3m7eHhFzlW8fWVSS38SALqcjENRTILqwrMiP2880XkDKgrGoG=w352-h198-no?authuser=0",
+            "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3e6L8LqWlTV3E_527ik9x_GJQTcIDEcaZ5uQu6xWJwElJbK8L2avFYXZAcmsTSLA19okrW5jfWaMZZPXe3BxJJphik_TeiPi8NHdpE8Kv--rI06dzVulOI7pnwp7ycjmVJp4_gbzsW5YQdkiM7JjTjb=w639-h359-no?authuser=0",
             "tags": "jQuery"
         },
         {
             "projectArea": "HTML",
-            "projectDisplayOrder": 8,
+            "projectDisplayOrder": 7,
             "projectTitle": "Local Weather",
             "projectDescription": "See your current local weather.",
             "projectUrl": "https://codepen.io/ne_st185/full/QOwWeN",
-            "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3d36vgPqcabPFoVZ_ersuxKYhWPzBmQOARbGJg8n2Rajpa8EgvbppA04oanAiVBMG9h5kmkYnf39HFzlncewtKxblX6Qs0bG2Ucm_CU8px-LLqoJjHpHys29L0QlPLsngc-vZTJp8QipYe9Bav-UAmU=w352-h198-no?authuser=0",
-            "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3cR8wBkwNRPUI3Z8Sx8AMcTRiUG9d6uM9goGe0jtNXTJEsecIOzi9I45dOBchfLzyP9b1jTUDuFWwm4_CIMd1Lx7bMRG9o5VkoEWMuUFOHxMuGqLYtzoOlawoBzO4ZaLQVJsyfVHnMsl3-xeV0l4Ls-=w640-h360-no?authuser=0",
+            "projectImageUrl": "https://lh3.googleusercontent.com/pw/ACtC-3dG40zV7H2k9Vm690qi--VItxtVvtSZwPEKDS9-iixPZ91aY88mfNpVuh6JxdPuYiq9al240_9jz1lMzcAZro5_yhGGyB3NONRS-BA1rrqZMjapdsLLptF4ZNLJgSQFMeYWhjDbQdeS4CHSx3aEreBj=w352-h198-no?authuser=0",
+            "projectWebpUrl": "https://lh3.googleusercontent.com/pw/ACtC-3efQmtesZNpswBtsjw_i6wq4wg0F8bETHC8xugoneFbdEbhEFSmvIf1eiGJByD8igr3PPrJzg-9Z2kYU_6gtJsktDu_NNkVN3zbC4V--JGHgqYZhEcCXrLe-l3xE759tzTF6iDnLAwZTWN2fffiJzAz=w640-h360-no?authuser=0",
             "tags": "jQuery"
         }
     ]
